@@ -2,6 +2,8 @@
 
 This system allows users to create personalized logos by inputting initials, selecting an icon, and customizing the background and text colors. It uses Python libraries such as OpenCV, Pillow, and Tkinter for image processing and graphical user interface (GUI) components.
 
+Github link = https://github.com/kier23/GVC_FINALS
+
 ## Requirements
 
 1. **Python 3.x** – Make sure you have Python installed on your system.
