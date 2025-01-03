@@ -17,7 +17,7 @@ This system allows users to create personalized logos by inputting initials, sel
    
    You can install the required libraries using `pip`:
    ```bash
-   pip install opencv-python numpy pillow
+   pip install -r requirements.text
 
 ***
 
